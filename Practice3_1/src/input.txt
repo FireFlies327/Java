@@ -1,0 +1,6 @@
+Common_Purchase Meat 250 5
+Price Meat 250 7 25
+Percent Meat 250 15 4.75
+Percent Meat 250 1 7.0
+Common_Purchase Meat 250 4
+Common_Purchase Meat 250 2
