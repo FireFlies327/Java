@@ -1,1 +1,1 @@
-Java Labs
+Labs and Practices
