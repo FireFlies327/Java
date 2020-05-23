@@ -1,0 +1,11 @@
+daily-rate=25000
+indices=1;2;3
+account02=Alex
+transport02=50000
+days01=5
+account01=Dima
+transport01=250000
+days02=3
+account03=Anton
+transport03=30000
+days03=3
