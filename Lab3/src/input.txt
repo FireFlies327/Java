@@ -1,0 +1,10 @@
+Ivanov 15 0
+Sidorov 44 0
+Popov 36 0
+Petrova 29 1
+Sokolov 23 0
+Lebedeva 55 1
+Volkova 20 1
+Zaiceva 18 1
+Komarov 48 0
+Tarasova 32 1
