@@ -12,10 +12,10 @@ public class Runner {
         return result / patient.length;
     }
 
-    private static int amountOfMen(Patient[] patient) {
+    private static int amountOfFemale(Patient[] patient) {
         int result = 0;
         for (Patient item : patient)
-            if (item.getGender().equals(Gender.male)) result++;
+            if (item.getGender().equals(Gender.female)) result++;
         return result;
     }
 
@@ -41,7 +41,7 @@ public class Runner {
 
         System.out.println("*******");
         System.out.println("Средний возраст = " + middleAge(patient));
-        System.out.println("Количество мужчин = " + amountOfMen(patient));
+        System.out.println("Количество женщин = " + amountOfFemale(patient));
 
         Arrays.sort(patient);
 
