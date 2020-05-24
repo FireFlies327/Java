@@ -1,0 +1,10 @@
+
+Airline{surname='Sidorov', name=Anton, full_name=Olegovi4, address=Sidorov_address, between_city_talk=Tue Mar 09 00:40:26 MSK 3920, weekday=Tuesday}
+
+Airline{surname='Popov', name=Nikita, full_name=Alexandrovi4, address=Popov_address, between_city_talk=Thu Apr 15 01:00:39 MSK 3920, weekday=Wednesday}
+
+Airline{surname='Petrov', name=Artem, full_name=Nikolaevi4, address=Petrov_address, between_city_talk=Wed May 19 01:20:52 MSK 3920, weekday=Wednesday}
+
+Airline{surname='Ivanov', name=Ivan, full_name=Dmirtievi4, address=Ivanov_address, between_city_talk=Thu Feb 05 00:20:13 MSK 3920, weekday=Thursday}
+
+Airline{surname='Alex', name=Krasuk, full_name=Olegovi4, address=Krasuk_address, between_city_talk=Sun May 24 18:14:28 MSK 2020, weekday=Sunday}
